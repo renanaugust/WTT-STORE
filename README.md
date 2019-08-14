@@ -27,7 +27,7 @@ Fork this repo and implement your solution. Then send us a pull request to this 
 - On the details page, display the book price and option to purchase.
 - Once the user clicks "buy", the book should be added to the cart and an option to "check out" should be displayed.
 - At checkout, display a form to fill in "name, date of birth and email".
-- When submitting the form, display a page stating "Your order has been successfully completed" and thank you for purchasing the book, with an option to return to the beginning of the store.
+- When submitting the form, display message "Your order has been successfully completed" and thank you for purchasing the book, with an option to return to the beginning of the store.
 
 Good luck!
-We are waiting for you on the team!
+We are waiting for you on our team!
