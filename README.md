@@ -1,4 +1,4 @@
-#English Description
+# English Description
 
 WTT-Store prototype (front end) implemented using React, Redux, React router, and React Material UI library.
 
