@@ -1,33 +1,42 @@
-# WTT-STORE
-Help build the WTT-Store
+#English Description
 
-# Goal
-Build only the "frontend" of a non-server book store.
+WTT-Store prototype (front end) implemented using React, Redux, React router, and React Material UI library.
 
-## Write rules:
-- React Framework
-- Html5 + CSS
+This project was created mainly for tests purposes.
 
-## What we are judging:
-- Good visual presentation and desirable UX concepts
-- Programming Logic
-- Organization
-- Documentation
+<img src="./src/Images/screenshot.png" width="820" height="420">
 
-## What can I use:
-All data should be simulated (no server), preferably create a single static file with all data required in the requirements below.
+**Some features**:
 
-## How to submit:
-Fork this repo and implement your solution. Then send us a pull request to this branch with your code.
+- Search products using keyword and/or category
+- Ability to filter and sort products by price
+- Users can add products to shopping cart
 
-## Requirements
-- Login page (username e password) - Does not require any authorization validation.
-- List of books available in store (minimum of 20 books that can be based on this link https://www.casadocodigo.com.br).
-- Each exposed book should have an option for more details, when clicking a page of that book's details should be displayed.
-- On the details page, display the book price and option to purchase.
-- Once the user clicks "buy", the book should be added to the cart and an option to "check out" should be displayed.
-- At checkout, display a form to fill in "name, date of birth and email".
-- When submitting the form, display message "Your order has been successfully completed" and thank you for purchasing the book, with an option to return to the beginning of the store.
+# How to use
 
-Good luck!
-We are waiting for you on our team!
+1. Clone or download the repository.
+2. `cd` into the project folder.
+3. `npm install`
+4. `npm start`
+
+# Descrição em Português
+
+Protótipo WTT-Store (front end) implementado usando a biblioteca React, Redux, React Router e React Material UI.
+
+Este projeto foi criado principalmente para fins de testes.
+
+<img src="./src/Images/screenshot.png" width="820" height="420">
+
+**Algumas funcionalidades**:
+
+- Pesquise produtos usando palavras-chave e / ou categoria
+- Capacidade de filtrar e classificar produtos por preço
+- Os usuários podem adicionar produtos ao carrinho de compras
+
+# Como usar
+
+1. Clonar ou baixar o repositório.
+2. `cd` na pasta do projeto.
+3. `npm install`
+4. `npm start`
+   Abrir no Google Tradutor
